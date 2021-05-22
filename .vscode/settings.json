@@ -1,0 +1,5 @@
+{
+	"sonarlint.analyzerProperties": {
+	  "sonar.typescript.tsconfigPath": "frontend/tsconfig.json"
+	}
+  }
